@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: runscf
+Version: 0.1
+Summary: Utilities for setting up, running, and analysing CASTEP calculations on a suite of inputs
+Home-page: http://www.tcm.phy.cam.ac.uk/profiles/nw361/
+Author: Nick Woods
+Author-email: nw361@cam.ac.uk
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
